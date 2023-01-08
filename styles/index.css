@@ -1,0 +1,16 @@
+.glav{
+    width: 940px;
+    margin: 0px auto;
+    
+
+}
+main{
+    max-width: 1445px;
+    width: 100%;
+}
+.hero{
+    display:flex;
+    justify-content: space-between;
+    width: 400px;
+
+}
